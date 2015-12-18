@@ -4,7 +4,7 @@
   
   
   Resources
-  1. Fast Articial Neural Network Library (FANN), http://leenissen.dk/fann.
+  1. Fast Artificial Neural Network Library (FANN), http://leenissen.dk/fann.
   2. The training data
       https://docs.google.com/open?id=0BydncqvKZ4zIOEJ6RlNtalBQc00
   3. The test data
